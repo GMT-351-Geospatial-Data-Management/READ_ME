@@ -14,7 +14,7 @@
 
 ### Technologies - Frontend
 - [React framework v18](https://reactjs.org/) - to create user interfaces
--[ Bootstrap v5](https://getbootstrap.com/) - to improve web page designs
+- [ Bootstrap v5](https://getbootstrap.com/) - to improve web page designs
 
 ### Pre-Setup
 - All necessary components must be downloaded.
