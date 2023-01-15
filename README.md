@@ -21,6 +21,7 @@
 - should have a basic knowledge of Javascript and React.
 - This will also help you if you have knowledge of how the Restful API (CRUD app) works.
 
-
+### Overview Diagram
+<img width="603" alt="image" src="https://user-images.githubusercontent.com/119863892/212556523-96fe373a-679c-4040-a199-5c3319b511e5.png">
 
 
