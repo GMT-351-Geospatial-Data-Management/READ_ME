@@ -100,6 +100,15 @@ const InputClub = () => {
 - Console Log 
 <img width="563" alt="image" src="https://user-images.githubusercontent.com/119863892/212558531-dae75b52-2c7a-44af-baaf-97272b33afa3.png">
 
+### General Tools / References
+- [PERN Stack Course - Postgres, Express, React, and Node](https://youtu.be/ldYcgPKEZC8)
+- [React documentation](https://reactjs.org/docs/getting-started.html)
+- [JS-beautify for VS Code](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify)
+- [ES7+ React/Redux/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
+- [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+- [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+- [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)
+
 
 
 
