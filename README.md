@@ -11,3 +11,16 @@
 - [Express.js middleware v4](https://expressjs.com/)- to build RESTful APIs with Node.js
 - [Node.js v18](https://nodejs.org/en/)- to create the server side
 - [Postman API](https://www.postman.com/) to simulate frontend
+
+### Technologies - Frontend
+- React framework v18 - to create user interfaces
+- Bootstrap v5 - to improve web page designs
+
+### Pre-Setup
+- All necessary components must be downloaded.
+- should have a basic knowledge of Javascript and React.
+- This will also help you if you have knowledge of how the Restful API (CRUD app) works.
+
+
+
+
