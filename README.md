@@ -8,6 +8,6 @@
 
 ### Technologies - Backend
 - [PostgreSQL v15](https://www.postgresql.org/) - to manage database
-- Express.js middleware v4 - to build RESTful APIs with Node.js
-- Node.js v18 - to create the server side
-- Postman API to simulate frontend
+- [Express.js middleware v4](https://expressjs.com/)- to build RESTful APIs with Node.js
+- [Node.js v18](https://nodejs.org/en/)- to create the server side
+- [Postman API](https://www.postman.com/) to simulate frontend
