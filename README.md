@@ -13,8 +13,8 @@
 - [Postman API](https://www.postman.com/) to simulate frontend
 
 ### Technologies - Frontend
-- React framework v18 - to create user interfaces
-- Bootstrap v5 - to improve web page designs
+- [React framework v18](https://reactjs.org/) - to create user interfaces
+-[ Bootstrap v5](https://getbootstrap.com/) - to improve web page designs
 
 ### Pre-Setup
 - All necessary components must be downloaded.
