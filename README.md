@@ -24,4 +24,25 @@
 ### Overview Diagram
 <img width="603" alt="image" src="https://user-images.githubusercontent.com/119863892/212556523-96fe373a-679c-4040-a199-5c3319b511e5.png">
 
-
+### Build Our Server
+- "server" folder is created. (see server)
+- npm init
+- dependencies are downloaded. npm i express pg cors
+  * Express is a Node.js based web application server framework.
+  * pg is a non-blocking PostgreSQL client for Node.js.
+  * Cors allows the web application to receive HTTP requests from different sources.
+- "index.js" created. (see index.js)
+- "databased.sql" created. (see database)
+  * Contains source codes of database and tables
+- In terminal under server folder thanks to commandscd server touch index.js and node index server starts at http://localhost:5000/
+### Connect Our Database and Server
+- The PostgreSQL library is linked with the "db.js" script file. (see db.js)
+  * In this file, database information is defined.
+- Routes sections are written in "index.js" and CRUD processing capability is gained with query commands - POST, GET, PUT, DELETE etc.
+### Set Up the Client Side
+- "Client" folder is created. (see (bkz. Client)
+- Input, List and Edit components are created using Fragment, useState structures.
+  * Fragments allow you to group a list of child elements without adding extra nodes to the Dom.
+  * The useState function lets you use state and other React features without creating any classes.
+- It should be imported into "App.js". (see (bkz. App.js)
+- The site is run at the address of http://localhost:3000/ with cd client npm start under the client folder in the terminal.
