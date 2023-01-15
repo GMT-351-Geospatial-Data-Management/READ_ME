@@ -67,3 +67,26 @@ app.post("/clubss", async(req,res) => {
 });
 
 ```
+### Code Examples - Frontend
+```
+const InputClub = () => {
+
+    const [name, setName] = useState("")
+    const onSubmitForm = async(e) => {
+        e.preventDefault();
+        try {
+            const body = {name};
+            const response =await fetch("http://localhost:5000/clubss", {
+                method: "POST",
+                headers: { "Content-Type": "application/json"},
+                body: JSON.stringify(body)
+            });
+            window.location ="/";
+            
+        } catch (err) {
+            console.error(err.message)
+            
+        }
+    }
+```
+
