@@ -112,7 +112,7 @@ const InputClub = () => {
 ### Contact
 - [Asude Nurun Akgümüş](https://github.com/nrnakg) -[Gmail](asudenrnakgumus@gmail.com)
 - [Sude Yaprak Köse](https://github.com/sudeyaprak) - [Gmail](sudeyapraksyks@gmail.com)
-- [Burcu Fatma Arslan](https://github.com/Burcu348) - [Mail](burcuarslan@hacettepe.edu.tr)
+- [Fatma Burcu Arslan](https://github.com/Burcu348) - [Gmail](burcuarslan@hacettepe.edu.tr)
 
 
 
