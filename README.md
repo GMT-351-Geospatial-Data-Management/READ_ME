@@ -46,3 +46,24 @@
   * The useState function lets you use state and other React features without creating any classes.
 - It should be imported into "App.js". (see (bkz. App.js)
 - The site is run at the address of ``` http://localhost:3000/``` with ```cd client ``` ```npm start ``` under  the client folder in the terminal.
+
+
+### Code Examples - Backend
+```
+//ROUTES//
+
+//Create a Club
+app.post("/clubss", async(req,res) => {
+    try {
+        const { name } = req.body;
+        const newClub = await pool.query(
+            "INSERT INTO clubs (name) VALUES($1) RETURNING *",
+        [name]
+        );
+        res.json(newClub.rows[0]);
+    } catch (err) {
+        console.error(err.message);
+    }
+});
+
+```
