@@ -49,7 +49,7 @@
 
 
 ### Code Examples - Backend
-```
+``` python
 //ROUTES//
 
 //Create a Club
@@ -68,7 +68,7 @@ app.post("/clubss", async(req,res) => {
 
 ```
 ### Code Examples - Frontend
-```
+``` python
 const InputClub = () => {
 
     const [name, setName] = useState("")
