@@ -96,7 +96,7 @@ const InputClub = () => {
 - Postman testing
 <img width="589" alt="image" src="https://user-images.githubusercontent.com/119863892/212558182-dc525e14-2b4f-4518-8c1a-9a71d45299d8.png">
 - Console Log 
-![image](https://user-images.githubusercontent.com/112273153/212558452-c081eb1f-5c05-44e6-ab07-d3557d1df847.png)
+![cc](https://user-images.githubusercontent.com/112273153/212558469-a58abf8c-d42c-45a5-a3ee-e6daa52bc52d.png)
 
 
 
